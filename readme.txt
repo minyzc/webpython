@@ -1,2 +1,6 @@
 Git is a version control system.
-Creating a new branch is quick & simple.
+<<<<<<< HEAD
+Creating a new branch is quick AND simple.
+=======
+Greating a new branch is quick AND simple.
+>>>>>>> feature1
